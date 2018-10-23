@@ -1,4 +1,6 @@
 #!/bin/bash
+#Author - Akshay Kumar
+#This is a great comment
 sum=0
 #Comments in bash command
 for arg in $@
